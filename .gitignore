@@ -1,0 +1,5 @@
+*.html
+*.c
+*.pyd
+**/build
+.env
